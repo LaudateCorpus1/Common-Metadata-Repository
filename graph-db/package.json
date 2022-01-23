@@ -23,7 +23,7 @@
     "aws-sdk": "^2.891.0",
     "gremlin": "^3.4.10",
     "lodash": "^4.17.21",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "serverless": "^2.38.0",
     "serverless-webpack": "^5.5.1",
     "webpack": "^5.39.0"
